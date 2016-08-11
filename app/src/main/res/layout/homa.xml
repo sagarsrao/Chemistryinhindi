@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    android:id="@id/lonez"
+    android:background="@color/darkblue"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:id="@id/scrollView1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <com.google.android.gms.ads.NativeExpressAdView
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                ads:adUnitId="@string/Native"
+                ads:adSize="350x250"
+                android:layout_gravity="center_vertical|center_horizontal|center">
+            </com.google.android.gms.ads.NativeExpressAdView>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/linearLayout2" android:layout_below="@id/sad"
+        android:layout_weight="0.84">
+
+        <Button android:textSize="30dp" android:typeface="sans" android:textStyle="normal"  android:layout_gravity="center_vertical|center_horizontal|center" android:id="@id/button1" android:background="@drawable/custom_button" android:padding="7.0dip"
+            android:layout_height="wrap_content"
+            android:text="@string/appqu" android:singleLine="false"
+            android:onClick="gocat"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:layout_width="fill_parent"
+            android:layout_above="@+id/linearLayout"
+            android:layout_centerHorizontal="true" />
+
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:id="@+id/linearLayout"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true">
+
+            <Button android:textAppearance="?android:textAppearanceMedium" android:textColor="#ff111111" android:id="@id/button5"
+                android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="5.0dip" android:text="Developer Profile"
+                android:onClick="goabouta"
+                android:textSize="30dp"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:layout_gravity="center_vertical|fill_vertical|center"
+                android:background="@drawable/custom_button" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+    <LinearLayout android:orientation="vertical" android:id="@id/lone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+
+    <LinearLayout android:id="@id/linearLayout2" android:background="@color/colorAccent" android:layout_width="fill_parent" android:layout_height="15dp"
+        android:layout_alignParentLeft="true" android:layout_alignParentBottom="true"
+        android:layout_weight="0.16">
+
+        <ImageButton android:textSize="20.0sp" android:id="@id/imageButton" android:background="#00000000" android:padding="4.0dip" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5.0dip" android:layout_marginTop="25.0dip" android:src="@mipmap/ic_fb" android:text="About\n Us" android:layout_weight="1.0" android:onClick="goabout" />
+
+        <ImageButton android:textSize="20.0sp" android:id="@id/imageButton3" android:background="#00000000" android:padding="4.0dip" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5.0dip" android:src="@mipmap/ic_play" android:text="More \nApp" android:layout_weight="1.0" android:onClick="goapps" />
+
+        <ImageButton android:textSize="20.0sp" android:id="@id/aboutus" android:background="#00000000" android:padding="4.0dip" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5.0dip" android:layout_marginTop="25.0dip" android:src="@mipmap/ic_contacts" android:text="About\n Us" android:layout_weight="1.0" android:onClick="gouserscore" />
+        <ImageButton android:textSize="20.0sp" android:id="@id/optb" android:background="#00000000" android:padding="4.0dip" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5.0dip" android:src="@mipmap/ic_share" android:text="Connect\non FB" android:layout_weight="1.0" android:onClick="gousers" />
+    </LinearLayout>
+</LinearLayout>

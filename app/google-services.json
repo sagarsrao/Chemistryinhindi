@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "527680737248",
+    "firebase_url": "https://radiant-torch-2806.firebaseio.com",
+    "project_id": "radiant-torch-2806",
+    "storage_bucket": "radiant-torch-2806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527680737248:android:371ee068b969aaa1",
+        "android_client_info": {
+          "package_name": "in.dailytalent.www.photoeditingpng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527680737248-7mpl3ihshassn78kc7ab40d8bo4hghhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dailytalent.www.photoeditingpng",
+            "certificate_hash": "455B789A3EB7F7C30D9839DD86D848CAD0A5FBDF"
+          }
+        },
+        {
+          "client_id": "527680737248-sril70mv8u1ad5hgu3432tbapk9uil5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePcDk_n39a5s1LwNVBTfHhi058PwBpCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527680737248:android:393360633cc17071",
+        "android_client_info": {
+          "package_name": "in.dailytalent.www.riyacomputerdhanota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527680737248-8d7jf072bavj97lfutb3o8ni6rnl7n2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dailytalent.www.riyacomputerdhanota",
+            "certificate_hash": "73D86CB51A1F2F763ED4C79AF4914F1752BFD75E"
+          }
+        },
+        {
+          "client_id": "527680737248-sril70mv8u1ad5hgu3432tbapk9uil5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePcDk_n39a5s1LwNVBTfHhi058PwBpCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527680737248:android:1f99f740c75815fd",
+        "android_client_info": {
+          "package_name": "in.dailytalent.www.hdbackground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527680737248-b4jua6ri1g8e8hk8d6d4795qg69pp13h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dailytalent.www.hdbackground",
+            "certificate_hash": "43031EFC3DB0E69A4A20AEFA76AB32014A2F592E"
+          }
+        },
+        {
+          "client_id": "527680737248-sril70mv8u1ad5hgu3432tbapk9uil5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePcDk_n39a5s1LwNVBTfHhi058PwBpCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527680737248:android:e09cc836f2cce681",
+        "android_client_info": {
+          "package_name": "in.dailytalent.www.chemistryinhindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527680737248-h8fsduvq4219lm8ruftts2od3lr03t9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dailytalent.www.chemistryinhindi",
+            "certificate_hash": "CF866AFA256A7F455CE34B37ECC121A87125499E"
+          }
+        },
+        {
+          "client_id": "527680737248-sril70mv8u1ad5hgu3432tbapk9uil5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePcDk_n39a5s1LwNVBTfHhi058PwBpCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527680737248:android:c058c2d8064ec962",
+        "android_client_info": {
+          "package_name": "in.dailytalent.www.talentkakhazana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527680737248-d7e7kfd22cabdr5u5hv81eveh11ug7rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dailytalent.www.talentkakhazana",
+            "certificate_hash": "288725AABD4890BE7ABAF48C70543F35C8AF2F0E"
+          }
+        },
+        {
+          "client_id": "527680737248-sril70mv8u1ad5hgu3432tbapk9uil5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePcDk_n39a5s1LwNVBTfHhi058PwBpCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chemistry in hindi</string>
+    <string name="about1">shankar yadav</string>
+    <string name="about2">"मेरा नाम शंकर यादव है मै राजस्थान जयपुर में तहसील शाहपुरा का रहने वाला हुँ में वेबसाइट व एंड्राइड एप बनाता हु विगत कई वर्षो से मैने महसूस किया है कि राज्य की विषम भौगोलिक परिस्थितियों के कारण दूरस्थ ग्रामीण तथा कस्बाई क्षेत्रों के Students में भरपूर प्रतिभा विद्यमान होने के उपरान्त भी इन स्थानों पर प्रशिक्षण संस्थान न होने के कारण प्रतियोगी परीक्षाओं जैसे-RPET, JEE, AIEEE, PMT में यहां के Students अपेक्षित सफलता प्राप्त नहीं कर पाते है | इसी को देखते हुये मैने यह एप्प बनाया है आशा है कि आप को बहुत पसंद आयेगा | आप को एप्प कैसा लगा अपनी राय whatsaap नंबर 8058784789 पर जरुर दे धन्यवाद-
+"</string>
+    <string name="about3">"shankar yadav"</string>
+    <string name="accept">Accept</string>
+    <string name="appqu">Enter</string>
+    <string name="decline">Decline</string>
+    <string name="intro">रसायन इन हिंदी में रसायन विज्ञान के 200 से ज्यादा बिन्दु  पर अध्ययन   करने को मिलेगा  </string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="showans">ANSWER</string>
+    <string name="int_ad_unit_id">ca-app-pub-7258515950688289/1308462450</string>
+    <string name="ad_unit_id">ca-app-pub-7258515950688289/4401529652</string>
+    <string name="Native">ca-app-pub-7258515950688289/9178199250</string>
+
+</resources>

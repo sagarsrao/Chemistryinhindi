@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/lonez" android:background="@color/a3" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_horizontal" android:id="@id/textView1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/app_name" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/textView2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/app_name" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/lonea" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <LinearLayout android:orientation="vertical" android:id="@id/lone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/bt" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <Button android:textColor="@color/white" android:id="@id/button5" android:background="@color/lightgreena" android:padding="7.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/previous" android:layout_weight="1.0" />
+        <Button android:textColor="@color/white" android:id="@id/button7" android:background="@color/lightgreena" android:padding="7.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5.0sp" android:text="INDEX" android:layout_weight="1.0" android:onClick="gohome" />
+        <Button android:textColor="@color/white" android:id="@id/button6" android:background="@color/lightgreena" android:padding="7.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/next" android:layout_weight="1.0" />
+    </LinearLayout>
+    <ListView android:id="@id/listView1" android:layout_width="fill_parent" android:layout_height="0.0dip" android:divider="@color/darkgreen" android:dividerHeight="2.0sp" android:layout_weight="1.0" android:layout_above="@id/bt" android:footerDividersEnabled="false" />
+</LinearLayout>
